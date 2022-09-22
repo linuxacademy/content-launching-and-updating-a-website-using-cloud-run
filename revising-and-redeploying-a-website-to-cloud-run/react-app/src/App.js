@@ -32,7 +32,6 @@ class App extends React.Component {
           </div>
           <header className="w3-display-container w3-content w3-wide" style={{maxWidth: 1500}} id="home">
           <img className="w3-image" src="img/farmer-cat.jpg" alt="Huckleberry the Farm Cat" />
-          <!-- <img className="w3-image" src="img/historic-cat.jpg" alt="Historic Purrservation Cat III - Catskill Armory 1889" /> -->
           </header>
   
           <div className="w3-content w3-padding" style={{maxWidth: 1564}} >
@@ -40,7 +39,6 @@ class App extends React.Component {
             <div className="w3-container w3-padding-32" id="about">
               <h3 className="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
               <p>Huckleberry the Farm Cat is one of the <strong>Cat'n Around Catskill 2022</strong> cats, created by Sheri Sidor. </p>
-              <!-- <p>Historic Purrservation Cat III - Catskill Armory 1889 is one of the <strong>Cat'n Around Catskill 2022</strong> cats, created by Margaret Nowack. </p>-->
               <p><strong>Catskill IT</strong> is a fictional company created by Joseph Lowery.</p>
             </div>
   
