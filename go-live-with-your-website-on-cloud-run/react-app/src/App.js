@@ -43,25 +43,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Thomas At Your Service</div>
-                <img src="img/thomas.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/thomas.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Cat in a Gilded Cage</div>
-                <img src="img/cat-in-a-cage.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/cat-in-a-cage.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Huckleberry the Farm Cat</div>
-                <img src="img/farmer-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/farmer-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Historic Purrservation Cat III</div>
-                <img src="img/historic-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/historic-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -74,25 +74,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Autumn Serenade</div>
-                <img src="img/catalog/autumn-seranade.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/autumn-seranade.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Bubbles</div>
-                <img src="img/catalog/bubbles.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/bubbles.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Cap-Citi-Cat</div>
-                <img src="img/catalog/cap-citi-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/cap-citi-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Cat-oon Balloon</div>
-                <img src="img/catalog/cat-oon-balloon.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/cat-oon-balloon.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -101,25 +101,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Cat-Strology</div>
-                <img src="img/catalog/cat-strology.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/cat-strology.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Cataluna</div>
-                <img src="img/catalog/cataluna.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/cataluna.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Catskill Clipper</div>
-                <img src="img/catalog/catskill-clipper.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/catskill-clipper.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Catskill Quilt Cat</div>
-                <img src="img/catalog/catskill-quilt-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/catskill-quilt-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -128,25 +128,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Chakra Cat</div>
-                <img src="img/catalog/chakra-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/chakra-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Chesire Cat</div>
-                <img src="img/catalog/chesire-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/chesire-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Day Of the Dead</div>
-                <img src="img/catalog/day-of-the-dead.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/day-of-the-dead.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Foxy Cat</div>
-                <img src="img/catalog/foxy-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/foxy-cat.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -155,25 +155,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
               <div className="w3-display-topleft w3-black w3-padding">Fruitopia</div>
-                <img src="img/catalog/fruitopia.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/fruitopia.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Geisha Kitty</div>
-                <img src="img/catalog/geisha-kitty.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/geisha-kitty.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Home Is Where the Heart Is</div>
-                <img src="img/catalog/home-is-where-the-heart-is.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/home-is-where-the-heart-is.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Indian Summer</div>
-                <img src="img/catalog/indian-summer.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/indian-summer.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -182,25 +182,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
               <div className="w3-display-topleft w3-black w3-padding">Indigo Blues</div>
-                <img src="img/catalog/indigo-blues.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/indigo-blues.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Kitty Be Well</div>
-                <img src="img/catalog/kitty-be-well.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/kitty-be-well.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Kitty Stardust</div>
-                <img src="img/catalog/kitty-stardust.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/kitty-stardust.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Merry Go Kitty</div>
-                <img src="img/catalog/merry-go-kitty.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/merry-go-kitty.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -209,25 +209,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
               <div className="w3-display-topleft w3-black w3-padding">Namaste</div>
-                <img src="img/catalog/namaste.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/namaste.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Naturalis Purpura</div>
-                <img src="img/catalog/naturalis-purpura.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/naturalis-purpura.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Night And Day</div>
-                <img src="img/catalog/night-and-day.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/night-and-day.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Polly Dactyl</div>
-                <img src="img/catalog/polly-dactyl.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/polly-dactyl.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -236,25 +236,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
               <div className="w3-display-topleft w3-black w3-padding">Purrtriot</div>
-                <img src="img/catalog/purrtriot.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/purrtriot.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Spirit Wings</div>
-                <img src="img/catalog/spirit-wings.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/spirit-wings.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Spiro</div>
-                <img src="img/catalog/spiro.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/spiro.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Sprinkles</div>
-                <img src="img/catalog/sprinkles.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/sprinkles.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -263,25 +263,25 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
               <div className="w3-display-topleft w3-black w3-padding">Super Chef Pizza Maker</div>
-                <img src="img/catalog/super-chef-pizza-maker.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/super-chef-pizza-maker.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Sweet As a Rose</div>
-                <img src="img/catalog/sweet-as-a-rose.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/sweet-as-a-rose.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">The Guardian, Cha-Kar-Ra</div>
-                <img src="img/catalog/the-guardian-cha-kar-ra.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/the-guardian-cha-kar-ra.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Tiger With Woods</div>
-                <img src="img/catalog/tiger-with-woods.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/tiger-with-woods.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
@@ -290,19 +290,19 @@ class App extends React.Component {
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
               <div className="w3-display-topleft w3-black w3-padding">Tyger Tyger</div>
-                <img src="img/catalog/tyger-tyger.jpg.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/tyger-tyger.jpg.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Venti</div>
-                <img src="img/catalog/venti.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/venti.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
             <div className="w3-col l3 m6 w3-margin-bottom">
               <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">Winter Happiness</div>
-                <img src="img/catalog/winter-happiness.jpg" alt="A Catskill Cat 2022"  style="width:100%">
+                <img src="img/catalog/winter-happiness.jpg" alt="A Catskill Cat 2022"  style="width:100%" />
               </div>
             </div>
           </div>
